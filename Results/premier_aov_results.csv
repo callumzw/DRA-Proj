@@ -1,0 +1,7 @@
+region,order_count,unique_customers,avg_basket_value_gbp,orders_per_customer
+London,17,17,37.38,1.00
+"South West",20,20,32.87,1.00
+"North West",5,5,32.84,1.00
+Scotland,26,26,31.50,1.00
+Midlands,18,17,30.71,1.06
+Yorkshire,14,14,28.67,1.00

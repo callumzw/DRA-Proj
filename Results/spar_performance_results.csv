@@ -1,0 +1,31 @@
+report_month,region,brand_partner,total_orders,total_sales_gbp,avg_order_value_gbp,avg_delivery_speed_mins
+2024-12,Scotland,"Spar - Aberdeen Union",8,274.77,34.35,46
+2024-12,Yorkshire,"Spar - Leeds City",6,186.67,31.11,32
+2024-12,Scotland,"Spar - Dundee Central",5,167.49,33.50,32
+2024-12,Scotland,"Spar - Glasgow West",5,166.20,33.24,31
+2024-12,"South West","Spar - Bristol Broad",6,149.22,24.87,73
+2024-12,Scotland,"Spar - Edinburgh Centre",3,121.49,40.50,62
+2024-12,Midlands,"Spar - Birmingham Bull",3,114.70,38.23,30
+2024-12,London,"Spar - London Camden",2,97.41,48.71,39
+2024-12,"North West","Spar - Liverpool One",2,71.91,35.96,40
+2024-12,"North West","Spar - Manchester Central",1,54.18,54.18,95
+2024-11,Scotland,"Spar - Glasgow West",6,262.45,43.74,67
+2024-11,London,"Spar - London Camden",7,250.67,35.81,65
+2024-11,Scotland,"Spar - Edinburgh Centre",6,227.09,37.85,50
+2024-11,Scotland,"Spar - Dundee Central",7,223.60,31.94,54
+2024-11,"North West","Spar - Liverpool One",5,198.73,39.75,52
+2024-11,Scotland,"Spar - Aberdeen Union",6,190.35,31.73,42
+2024-11,"North West","Spar - Manchester Central",4,186.74,46.69,43
+2024-11,"South West","Spar - Bristol Broad",6,178.25,29.71,56
+2024-11,Yorkshire,"Spar - Leeds City",4,129.98,32.50,70
+2024-11,Midlands,"Spar - Birmingham Bull",2,63.38,31.69,44
+2024-10,Scotland,"Spar - Edinburgh Centre",8,377.29,47.16,52
+2024-10,Scotland,"Spar - Dundee Central",9,366.02,40.67,52
+2024-10,London,"Spar - London Camden",7,276.71,39.53,41
+2024-10,"North West","Spar - Liverpool One",8,273.07,34.13,55
+2024-10,Scotland,"Spar - Aberdeen Union",6,223.86,37.31,36
+2024-10,Scotland,"Spar - Glasgow West",4,137.39,34.35,48
+2024-10,"South West","Spar - Bristol Broad",3,132.12,44.04,45
+2024-10,Yorkshire,"Spar - Leeds City",5,110.77,22.15,56
+2024-10,"North West","Spar - Manchester Central",2,82.56,41.28,33
+2024-10,Midlands,"Spar - Birmingham Bull",2,65.07,32.54,102

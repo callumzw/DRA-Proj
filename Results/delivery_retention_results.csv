@@ -1,0 +1,4 @@
+delivery_speed,total_customers,retained_customers,retention_rate_pct
+"Slow (>60 min)",79,43,54.4
+"Fast (<30 min)",169,86,50.9
+"Medium (31-60 min)",321,162,50.5

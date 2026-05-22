@@ -1,0 +1,7 @@
+report_month,order_volume,total_revenue_gbp,avg_order_value_gbp,revenue_growth_pct,order_volume_growth_pct,avg_order_value_growth_pct,primary_growth_driver
+2024-12,217,7292.25,33.60,-9.4,-8.4,-1.1,"Volume Driven"
+2024-11,237,8052.33,33.98,-12.1,-8.5,-3.9,"Volume Driven"
+2024-10,259,9155.79,35.35,15.5,9.7,5.3,"Volume Driven"
+2024-09,236,7925.62,33.58,-12.5,-10.3,-2.5,"Volume Driven"
+2024-08,263,9057.95,34.44,24.9,23.5,1.2,"Volume Driven"
+2024-07,213,7251.93,34.05,-7.3,-6.6,-0.8,"Volume Driven"

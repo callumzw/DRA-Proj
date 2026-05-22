@@ -1,0 +1,2 @@
+metric_scope,q3_revenue,q4_revenue,q3_orders,q4_orders,q3_new_customers,q4_new_customers,q3_avg_delivery_mins,q4_avg_delivery_mins,revenue_growth_pct,order_growth_pct,new_customer_growth_pct,delivery_time_change_mins
+"Platform Performance",23904.76,24405.01,701,711,117,63,48,50,2.1,1.4,-46.2,2
